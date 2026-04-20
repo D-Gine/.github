@@ -1,7 +1,6 @@
 # Welcome
 
 You'll find across this organization the source code of D&Gine, a web app with the goal of allowing roleplay games's fans to play at their favorites games online as they would do it offline.
-Documentation
 
 ## Documentation
 
