@@ -11,7 +11,7 @@ Many documents related to architecture, meetings and others are stored in our [N
 ## Contributing
 
 They are many rules to follow to maintain an organization with an healthy collaboration.
-First, see [CODE_OF_PRODUCT.md](../docs/CODE_OF_CONDUCT.md).
+First, see [CODE_OF_CONDUCT.md](../docs/CODE_OF_CONDUCT.md).
 Then, there are some documents/templates to follow. You can read them in this repository and have to use the appropriated ones when contributing.
 
 ## Owners
