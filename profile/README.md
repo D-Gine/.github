@@ -1,4 +1,4 @@
-# Welcome
+# Welcome to D&Gine
 
 You'll find across this organization the source code of D&Gine, a web app with the goal of allowing roleplay games's fans to play at their favorites games online as they would do it offline.
 
@@ -6,7 +6,7 @@ You'll find across this organization the source code of D&Gine, a web app with t
 
 > Many documents will be restricted to members. Ask the access if you are a member and don't have some authorizations.
 
-Many documents related to architecture, meetings and others are stored in our [Notion](https://www.notion.so/D-Gine-303c3a3e1a9780b4a6e9f2400bdb1761?source=copy_link)
+Many documents related to architecture, meetings and others are stored in our [Notion](https://www.notion.so/D-Gine-303c3a3e1a9780b4a6e9f2400bdb1761?source=copy_link).
 
 ## Contributing
 
