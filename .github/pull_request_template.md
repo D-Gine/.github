@@ -1,5 +1,3 @@
-# {PR title}
-
 - [ ] You've read the [Contributor Guide](https://github.com/D-Gine/.github/blob/main/docs/CONTRIBUTING.md) and [Code of Conduct](https://github.com/D-Gine/.github/blob/main/docs/CODE_OF_CONDUCT.md).
 - [ ] You've included unit or integration tests for your change, where applicable.
 - [ ] You've included inline docs for your change, where applicable.
