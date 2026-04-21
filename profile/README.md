@@ -16,6 +16,6 @@ Then, there are some documents/templates to follow. You can read them in [this r
 
 ## Owners
 
-| Pierre Pruvost | Abel Daverio | Jules Delteil | Sami Hamrouni | Baptiste Dunes | Ethan Gillaux-genelle
+| Pierre Pruvost | Abel Daverio | Jules Delteil | Sami Hamrouni | Baptiste Dunes | Ethan Gillaux-Genelle
 |--|--|--|--|--|--|
 | <img src="https://github.com/eto-NaN.png" width="150em"/> | <img src="https://github.com/abeldaverio.png" width="150em"/> | <img src="https://github.com/JulesDELTEIL.png" width="150em"/> | <img src="https://github.com/sami-hmr.png" width="150em"/> | <img src="https://github.com/BaptID.png" width="150em"/> | <img src="https://github.com/Kunamito.png" width="150em"/> |
