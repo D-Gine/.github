@@ -9,4 +9,6 @@ Summary of the changes (Less than 80 chars)
 
 Detailed description.
 
+---
+
 Fixes #{issue number} (In this specific format. Key words are `Fixes` and `Related to`).
