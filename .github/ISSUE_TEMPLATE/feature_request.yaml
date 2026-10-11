@@ -1,8 +1,7 @@
 name: Feature request
 description: Suggest an idea !
-title: ""
+title: "Title"
 labels: ["enhancement"]
-type: bug
 body:
   - type: markdown
     attributes:
