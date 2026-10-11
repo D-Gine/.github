@@ -2,11 +2,8 @@ name: Feature request
 description: Suggest an idea !
 title: "Title"
 labels: ["enhancement"]
+projects: ["D&Gine"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
   - type: textarea
     id: feature
     attributes:
