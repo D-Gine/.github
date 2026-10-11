@@ -1,0 +1,32 @@
+name: Feature request
+description: Suggest an idea !
+title: ""
+labels: ["enhancement"]
+type: bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: textarea
+    id: feature
+    attributes:
+      label: Feature description
+      description: Also tell us if you have any ideas on how to realize this feature.
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/D-Gine/.github/blob/main/docs/CODE_OF_CONDUCT.md).
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
+  - type: upload
+    id: screenshots
+    attributes:
+      label: Upload screenshots
+      description: If applicable, add screenshots to help us understand your idea !
+    validations:
+      required: false
