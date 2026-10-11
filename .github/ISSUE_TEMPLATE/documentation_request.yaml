@@ -1,0 +1,35 @@
+name: Documentation request
+description: Ask for documentation somewhere
+title: "Title"
+labels: ["documentation"]
+projects: ["D&Gine"]
+body:
+  - type: textarea
+    id: Subject
+    attributes:
+      label: On which subject do you need documentation ?
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where do you need documentation ?
+      description: Files, folders...
+    validations:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: Who will be helped by the documentation requested ?
+      multiple: false
+      options:
+        - Developers
+        - Users
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/D-Gine/.github/blob/main/docs/CODE_OF_CONDUCT.md).
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
